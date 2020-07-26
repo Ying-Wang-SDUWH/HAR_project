@@ -52,7 +52,7 @@
 
 <table>
     <tr>
-        <td ><center>![1](https://github.com/Ying-Wang-SDUWH/HAR_project/blob/master/picture/1.jpg)</center></td>
+        <td ><center>![1](https://github.com/Ying-Wang-SDUWH/HAR_project/blob/master/picture/1.jpg?raw=true)</center></td>
         <td ><center><img src="https://github.com/Ying-Wang-SDUWH/HAR_project/blob/master/picture/7.jpg"  width="80%"></center></td>
     </tr>
     <tr>
