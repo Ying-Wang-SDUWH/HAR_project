@@ -52,8 +52,8 @@
 
 <table>
     <tr>
-        <td ><center><img src="/picture/1.jpg"  width="80%"> </center></td>
-        <td ><center><img src="/picture/7.jpg"  width="80%"></center></td>
+        <td ><center><img src="https://github.com/Ying-Wang-SDUWH/HAR_project/blob/master/picture/1.jpg"  width="80%"> </center></td>
+        <td ><center><img src="https://github.com/Ying-Wang-SDUWH/HAR_project/blob/master/picture/7.jpg"  width="80%"></center></td>
     </tr>
     <tr>
         <td><center>首页</center></td>
@@ -68,8 +68,8 @@
 
 <table>
     <tr>
-       <td ><center><img src="./picture/2.jpg"  width="80%"> </center></td>
-        <td ><center><img src="./picture/3.jpg"  width="80%"></center></td>
+       <td ><center><img src="https://github.com/Ying-Wang-SDUWH/HAR_project/blob/master/picture/2.jpg"  width="80%"> </center></td>
+        <td ><center><img src="https://github.com/Ying-Wang-SDUWH/HAR_project/blob/master/picture/3.jpg"  width="80%"></center></td>
     </tr>
     <tr>
         <td><center>动作采集首页</center></td>
@@ -84,8 +84,8 @@
 
 <table>
     <tr>
-        <td ><center><img src="./picture/6.jpg"  width="80%"> </center></td>
-        <td ><center><img src="./picture/5.jpg"  width="80%"></center></td>
+        <td ><center><img src="https://github.com/Ying-Wang-SDUWH/HAR_project/blob/master/picture/6.jpg"  width="80%"> </center></td>
+        <td ><center><img src="https://github.com/Ying-Wang-SDUWH/HAR_project/blob/master/picture/5.jpg"  width="80%"></center></td>
     </tr>
     <tr>
         <td><center>动作识别中（语音播报）</center></td>
