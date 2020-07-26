@@ -19,7 +19,7 @@
 #### 1、“动作姿态识别”小程序源码
 
 + 小程序已发布，二维码如下，欢迎扫码体验：
-<img src='https://img-blog.csdnimg.cn/20200726160736443.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ1NTE3Njcy,size_16,color_FFFFFF,t_70#pic_center' width='800px'>
+<img src='https://picb.zhimg.com/v2-d2b7ad8cc633d003ed12c83ae04b2f47_r.jpg' width='800px'>
 
 #### 2、har_notebook
 
