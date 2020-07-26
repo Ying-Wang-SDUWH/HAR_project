@@ -20,7 +20,7 @@
 
 + 小程序已发布，二维码如下，欢迎扫码体验：
 
-<img src='http://m.qpic.cn/psc?/V14SAYHg0xtMin/ruAMsa53pVQWN7FLK88i5vCMhjavkx5DLPdDIeTkMA0Wdv1A1pF8t9UFyd6LytdyIINIBl5xHurHrj8a70TNJX8iyj5YbjMjW3I3Tdsfv6c!/b&bo=rgZwAgAAAAADB*g!&rf=viewer_4' width='800px'>
+<img src='https://picb.zhimg.com/80/v2-d2b7ad8cc633d003ed12c83ae04b2f47_1440w.jpg' width='800px'>
 
 #### 2、har_notebook
 
