@@ -52,8 +52,8 @@
 
 <table>
     <tr>
-        <td ><center><img src="./picture/1.jpg"  width="80%"> </center></td>
-        <td ><center><img src="./picture/7.jpg"  width="80%"></center></td>
+        <td ><center><img src="/picture/1.jpg"  width="80%"> </center></td>
+        <td ><center><img src="/picture/7.jpg"  width="80%"></center></td>
     </tr>
     <tr>
         <td><center>首页</center></td>
